@@ -39,3 +39,5 @@ font-family: 'Times New Roman'; color: gray; align-content: centre; text-align: 
     height: 200px;
     background-image: url(/Users/bash/Documents/mystaff/mypic.jpg);
     background-size: 100%;
+    border: 1px solid gray;
+}

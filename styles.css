@@ -41,3 +41,21 @@ font-family: 'Times New Roman'; color: gray; align-content: centre; text-align: 
     background-size: 100%;
     border: 1px solid gray;
 }
+.menuheader{
+    background-color: #4aaaa5;
+    width: 960px;
+    height: 40px;
+    float:right;
+    text-align: end;
+    text-size: 10px;
+ }
+ .divh1{
+     background-color: #4aaaa5;
+     font-size: 30px;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-weight: bold;
+     color: rgb(70, 67, 67);
+     text-align: start;
+
+
+ }
